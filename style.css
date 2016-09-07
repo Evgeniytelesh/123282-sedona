@@ -1,0 +1,359 @@
+body {
+    font-family: PTSans Bold, sans-serif;
+    font-size: 10px;
+    background: #f2f2f2;
+}
+.container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-transform: uppercase;
+    width: 1200px;
+    background: white;    
+}
+.main-navigation {
+    font-family: 
+    width: 1200px;
+    min-height: 60px;
+    background: white;
+    color: #111111;
+}
+.main-navigation li {
+    width:280px;
+    min-height: 35px;
+    display: inline-block;
+    text-align: center;
+    padding-top: 25px;
+}
+.main-navigation a {
+    font-size: 14px;
+     font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.logo {
+    min-height: 570px;
+    background: white;
+    margin-bottom: 60px;
+}
+.info {
+    text-align: center;
+    
+}
+.info b {
+    text-transform: uppercase;
+    font-size: 21px;
+    display: block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+.info p {
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-bottom: 60px;
+}
+.info1 {
+    width: 1200px;
+    min-height:260px;
+}
+.info1-item {
+    color: white;
+    background: #81b3d2;
+    text-align: center;
+    vertical-align: middle; 
+    float: left;
+    width: 400px;
+    min-height: 260px;
+    
+}
+.info1 b {
+    font-family: Myriad Pro Regular;
+    display:block;
+    width: 130px;
+    min-height: 50px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 55px;
+}
+.info1 img {
+    width: 800px;
+    min-height: 260px;
+    float: right;
+}
+.info1 p {
+    width: 290px;
+    min-height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.features {
+    min-height: 240px;
+}
+.features-item {
+    min-height: 330px;
+    width: 400px;
+    display: inline-block;
+    float:left;
+    text-align: center;
+    padding-top: 62px; 
+    
+}
+.features-item img {
+    padding-bottom: 32px;
+}
+.features-item b {
+    display: block;
+    font-size: 15px;
+    margin-bottom: 30px
+    
+}
+.features-item p {
+    font-size: 10px;
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #333333;
+}
+.info2 {
+    min-height: 260px;
+    display: inline-block;
+    width: 100%;    
+}
+.info2 img {
+    min-height:260px;
+    width: 800px;
+    float: left;
+}
+.info2-item {
+    float: right;
+    width: 400px;
+    min-height: 260px;
+    text-align: center;
+    background: #81b3d2;
+    color: white;
+}
+.info2 b {
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    margin-top: 60px;
+    width: 155px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info2 p {
+    margin-top: 30px;
+    font-size: 10px;
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.features-info {
+    min-height: 210px;
+    display: inline-block;
+    width: 1200px;  
+    background: #eeeeee;
+}   
+.features-info-item {
+    width: 400px;
+    float: left;
+    min-height: 160px;
+    text-align: center;
+    padding-top: 50px;
+}
+.features-info-item b {
+    font-size: 15px;
+    width: 
+}
+.features-info-item p {
+    color: #333333;
+}
+.main-container {
+    width: 1200px;
+    min-height: 120px;
+}
+.main-container section {
+    min-height: 120px;
+    width: 400px;
+    float: left;
+    text-align: center;
+}
+.footer-contacts a {
+    display: inline-block;
+    margin-top: 50px;
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+}
+.footer-social a {
+    vertical-align: middle;
+    display: inline-block;
+    width: 50px;
+    height: 45px;
+    background: #81b3d2;
+    margin-top: 35px;
+}
+.footer-copiring img:last-child {
+    display: inline-block;
+    margin-top: 40px
+    
+}
+.footer-copiring img:first-child {
+    margin-bottom: 15px;
+}
+.footer-social img:last-child {
+    margin-top: 12px
+}
+.question {
+    padding-top: 60px;
+    width: 1200px;
+    text-align: center;
+}
+.question b {
+    font-size: 22px;
+}
+.question p {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 10px;
+    color: #333333;
+}
+.search-button {
+    margin-top: 55px;
+    width: 1200px;
+}
+.search-button button {
+    display: block;
+    width: 570px;
+    height: 85px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #766357;
+    color: white;
+    font-size: 20px;
+}
+.search-form {
+    display: none;
+    width: 570px;
+    margin-left:auto;
+    margin-right: auto;
+}
+.search-form label {
+    display: inline-block;
+    width: 570px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 10px;   
+}
+.search-form input {
+    width: 340px;
+    background: #f2f2f2;
+    border-style: none;
+    height: 38px;
+}
+.search-form button {
+    height: 38px;
+    width: 38px;
+    display: inline-block;
+    margin-left: 0px;
+}
+.search-button:hover search-form {
+    
+}
+.search-form2 {
+    min-height: 215px;
+    width: 1200px;
+    display: inline-block;
+    background: url(img/filter%20background.png);
+    color: white;
+}
+.main-search-form2 {
+    width: 140px;
+    float: left;
+    margin-left: 73px;
+    
+}
+.tips {
+    width: 150px;
+    float: left;
+    
+}
+.cost {
+    width: 330px;
+    float: right;
+    margin-top: 30px;
+}
+.cost input {
+    float: left;
+    width: 160px;
+}
+.search {
+    width: 1200px;
+    display: inline-block;
+    margin-top: 30px
+    
+}
+.search b {
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 75px;
+}
+.search p {
+    display: inline-block;
+    margin-left: 35px;
+}
+.search a {
+    margin-left: 35px;
+}
+.hotels {
+    width: 1200px;
+    
+}
+.hotels img {
+    display: inline-block;
+    float: left;
+    
+}
+
+}
+.main-hotels p {
+    display: inline-block;
+    float: left;
+    
+}
+
+.hotels p:last-child {
+    display: inline-block;
+    float: right;
+    
+}
+.hotels a {
+    padding-top: 12px;
+    width: 110px;
+    display: inline-block;
+    height: 24px;
+    text-align: center;
+    background: #81b3d2;
+    color: white;
+    text-decoration: none;
+    
+}
+.hotels a:last-child {
+    font-weight: bold;
+    width: 140px;
+    height: 26px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 12px;
+    background: #766357;
+    color: white;
+}
